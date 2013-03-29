@@ -1,0 +1,10 @@
+Package: polnet
+Version: 0.0.1
+Date: 2013-03-26
+Title: Analysis of Political Networks.
+Author: Philip Leifeld
+Maintainer: Philip Leifeld <philip.leifeld@uni-konstanz.de>
+Description: A collection of functions for the analysis of political networks.
+Suggests: network
+Depends: R (>= 2.14.0)
+License: GPL-3
